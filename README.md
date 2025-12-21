@@ -1,7 +1,6 @@
 # AI-Vanguard
 
 [![Release](https://img.shields.io/github/v/release/kk12-30/AI-Vanguard)](https://github.com/kk12-30/AI-Vanguard/releases)
-[![License](https://img.shields.io/github/license/kk12-30/AI-Vanguard)](https://github.com/kk12-30/AI-Vanguard/blob/main/LICENSE)
 
 AI-Vanguard 是一款基于 AI 的自动化安全测试工具，旨在帮助用户快速进行网络安全评估和渗透测试。它集成了多种安全工具，并通过 AI 智能分析测试结果，提供详细的报告和建议。
 
