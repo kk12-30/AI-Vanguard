@@ -14,7 +14,7 @@ AI-Vanguard 是一款基于 AI 的自动化安全测试工具，旨在帮助用�
 
 ## 截图
 
-![AI-Vanguard 界面](https://via.placeholder.com/800x400?text=AI-Vanguard+Screenshot)
+![AI-Vanguard 界面](https://github.com/kk12-30/AI-Vanguard/blob/main/Screen1.png)
 
 ## 配置
 
