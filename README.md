@@ -53,13 +53,6 @@
 *   **自定义角色**：用户可以创建全新的专家角色，定义专属的 Prompt 和工具集。
 *   **灵活配置**：支持自定义 OpenAI API 接口（兼容 DeepSeek 等）、工具路径、并发数、超时时间等。
 
-## 🏗️ 技术架构
-
-*   **Frontend**: Vue 3 + TailwindCSS + Vite (提供极致流畅的现代 Web 交互体验)
-*   **Backend**: Go (Golang) (提供高性能的业务逻辑、并发处理和系统调用)
-*   **Application Framework**: Wails v2 (构建轻量级跨平台桌面应用)
-*   **AI Engine**: OpenAI API 兼容接口 (完美支持 DeepSeek-V3, GPT-4, Claude 等先进模型)
-*   **Protocol**: Model Context Protocol (MCP) (标准化的工具与 AI 交互协议)
 
 ## 🚀 适用场景
 
