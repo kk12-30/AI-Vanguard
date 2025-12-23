@@ -60,6 +60,7 @@ AI-Vanguard 通过集成主流安全工具和先进协议，构建了强大的�
 * **🔌 MCP (Model Context Protocol) 架构**
 * **作为 MCP Client**：无缝连接任何支持 MCP 协议的外部服务或本地工具。
 * **热插拔能力**：支持动态管理和配置外部 MCP 服务器，实现工具能力的无限扩展。
+![image](https://github.com/kk12-30/AI-Vanguard/blob/main/p1223-2.png)
 
 
 
