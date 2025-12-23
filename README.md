@@ -1,41 +1,29 @@
 # AI-Vanguard
 
-[![Release](https://img.shields.io/github/v/release/kk12-30/AI-Vanguard)](https://github.com/kk12-30/AI-Vanguard/releases)
-
-AI-Vanguard 是一款基于 AI 的自动化安全测试工具，旨在帮助用户快速进行网络安全评估和渗透测试。它集成了多种安全工具，并通过 AI 智能分析测试结果，提供详细的报告和建议。
+<div align="center">AI-Vanguard</div>
+<p align="center">
+<a href="https://github.com/kk12-30/AI-Vanguard/releases">
+<img src="https://img.shields.io/github/v/release/kk12-30/AI-Vanguard" alt="GitHub Release">
+</a>
+</p>
+<p align="center">
+AI-Vanguard是一款基于 AI 的自动化安全测试工具，旨在帮助用户快速进行网络安全评估和渗透测试。它集成了多种安全工具，并通过 AI 智能分析测试结果，提供详细的报告与修复建议。
+</p>
 
 ## 特性
 
-- **AI 驱动的自动化测试**：利用 AI 技术自动分析目标，制定测试策略，并执行多轮迭代测试。
-- **多工具集成**：支持 Nmap、Httpx、Nuclei、Subfinder、SQLMap 等多种安全测试工具。
+- **AI 驱动的自动化测试**：利用 AI 技术自动分析目标，制定测试策略，并执行多轮迭代测试，独创Act多策略模式。
+- **多工具集成**：支持 Nmap、Httpx、Nuclei、Subfinder、SQLMap 等多种安全测试工具预装，做到开箱即用。
 - **智能报告生成**：AI 自动生成详细的测试报告，包括发现的问题和下一步计划。
 - **用户友好界面**：基于 Wails 的现代化桌面应用，提供直观的操作体验。
 - **自定义配置**：支持自定义工具路径、API 密钥和测试参数。
 
 ## 截图
 
-![AI-Vanguard 界面](https://github.com/kk12-30/AI-Vanguard/blob/main/Screen1.png)
+![AI-Vanguard 界面](https://github.com/kk12-30/AI-Vanguard/blob/main/p1223.png)
+![AI-Vanguard 界面](https://github.com/kk12-30/AI-Vanguard/blob/main/p1223-1.png)
 
-## 配置
 
-⚙️ 首次运行后，应用会在运行目录生成 `config.yaml`。您也可以在应用的"设置"界面中修改配置。
-
-### 核心配置示例 (`config.yaml`)
-
-```yaml
-openai:
-  api_key: sk-xxxxxxxxxxxx  # 您的 API 密钥
-  base_url: https://api.siliconflow.cn/v1  # API 端点
-  model: deepseek-ai/DeepSeek-V3.2  # 使用的模型
-  max_total_tokens: 120000  # 最大 token 数
-agent:
-  max_iterations: 10  # 最大自动迭代次数
-tools:
-  - name: nmap
-    command: nmap.exe
-    path: Tools/nmap/nmap.exe  # 支持自定义完整路径
-    # 其他参数配置
-```
 
 ## 使用
 
