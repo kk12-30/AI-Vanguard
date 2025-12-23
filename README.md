@@ -43,6 +43,9 @@
 | 🔑 | **越权测试专家 (IDOR)** | **逻辑漏洞**。专注于业务逻辑缺陷和越权访问测试。 |
 | 🔌 | **MCP 模式** | **无限扩展**。作为 Model Context Protocol 客户端，连接外部服务。 |
 
+![image](https://github.com/kk12-30/AI-Vanguard/blob/main/p1223-1.png)
+
+
 ### 3. 🛠️ 强大的工具生态与 MCP 支持
 
 AI-Vanguard 通过集成主流安全工具和先进协议，构建了强大的能力底座：
@@ -75,6 +78,7 @@ AI-Vanguard 通过集成主流安全工具和先进协议，构建了强大的�
 * 完整复现步骤
 * HTTP 请求/响应包截图/文本
 * 专业的修复建议
+![image](https://github.com/kk12-30/AI-Vanguard/blob/main/p1223.png)
 
 
 
