@@ -1,11 +1,11 @@
 
 
-<center>
+<div align="center">
 
 # 🛡️ AI-Vanguard (先锋者)
 ### 智能自动化安全测试平台 | The Intelligent Automated Security Agent
 
-</center>
+</div>
 
 ## 📖 简介
 
