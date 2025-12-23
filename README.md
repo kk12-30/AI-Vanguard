@@ -16,6 +16,8 @@
 > **核心愿景**：降低安全测试的技术门槛，同时作为专业渗透人员的高效 Copilot，由繁入简，从容应对。
 
 ---
+![image](https://github.com/kk12-30/AI-Vanguard/blob/main/p1223-4.png)
+
 
 ## ✨ 核心功能亮点
 
